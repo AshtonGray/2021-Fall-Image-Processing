@@ -1,0 +1,1 @@
+A segmentation of rover and background using the felzenswalb algorithm, also using a regency agency graph, which is merged uing hierarchical merging through mean color
