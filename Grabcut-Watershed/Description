@@ -1,0 +1,2 @@
+Two methods are used to segment rover from background. First using watershed algorith, and the second using grabcut which requires human interaction to label a bounding box
+around the object
